@@ -1,0 +1,8 @@
+flask
+flask_restful
+flasgger
+mongoengine
+
+arcapi
+googlemaps
+gunicorn
